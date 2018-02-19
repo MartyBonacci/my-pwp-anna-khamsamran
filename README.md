@@ -45,3 +45,15 @@ Helpful resources on working with SVG for the web:
 - https://css-tricks.com/mega-list-svg-information/
 - https://css-tricks.com/using-svg/
 - https://css-tricks.com/lodge/svg/
+
+
+## Milestone 2b Feedback
+
+The bright colors are eye catching. The elements move into an appropriate place when viewed on a mobile device.
+You're making good progress.
+
+What are your plans for the numbers down the center of the page? Consider using a bootstrap carousel for the images that will be in this space.
+Consider breaking up the large block of text into paragraphs that are narrower like a newspaper column. This will improve readability.
+Are you going to keep the footer stacked in all views? Consider using icons to take up less space.
+
+Keep up the good work. Your Milestone 2b grade is Tier IV.
